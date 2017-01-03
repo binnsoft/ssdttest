@@ -30,5 +30,6 @@
     [hcap_to] VARCHAR(10) NULL, 
     [no_fences] VARCHAR(10) NULL, 
     [weights_raised_lbs] VARCHAR(10) NULL, 
-    [class_of_race] VARCHAR(10) NULL,
+    [class_of_race] VARCHAR(10) NULL, 
+    [added_field] NCHAR(10) NULL,
 )
